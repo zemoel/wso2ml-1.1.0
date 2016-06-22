@@ -1,0 +1,2 @@
+org.wso2.carbon.ml.core_1.1.2.SNAPSHOT.jar:c4861c83e3ae2ac1bbb96d8d716c7732
+org.wso2.carbon.ml.commons_1.1.2.SNAPSHOT.jar:421c5aed10d4b54ad0137612f6e106f7
